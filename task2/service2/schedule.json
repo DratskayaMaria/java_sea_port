@@ -1,0 +1,7228 @@
+{
+  "arrivalDay" : 22,
+  "arrivalTime" : 777,
+  "shipName" : "Vfcftazcacex",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 50030,
+  "portBerthTime" : 16677,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1019,
+  "shipName" : "Sqxwrzdwxl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37571,
+  "portBerthTime" : 12524,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1069,
+  "shipName" : "Gsmvx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 51259,
+  "portBerthTime" : 17087,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 834,
+  "shipName" : "Da",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 52665,
+  "portBerthTime" : 17555,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 750,
+  "shipName" : "Pcltkutakp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 52035,
+  "portBerthTime" : 17345,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 576,
+  "shipName" : "Zvcitas",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 2046,
+  "portBerthTime" : 682,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1204,
+  "shipName" : "Hdwx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 30204,
+  "portBerthTime" : 10068,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1274,
+  "shipName" : "Uuuhbzpwle",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 58050,
+  "portBerthTime" : 19350,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1292,
+  "shipName" : "Iuomz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18981,
+  "portBerthTime" : 6327,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1345,
+  "shipName" : "Bocix",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34687,
+  "portBerthTime" : 11563,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1400,
+  "shipName" : "Noxr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 42176,
+  "portBerthTime" : 14059,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1128,
+  "shipName" : "Hzqsyl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2148,
+  "portBerthTime" : 716,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 888,
+  "shipName" : "Szl",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 4750,
+  "portBerthTime" : 1584,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1421,
+  "shipName" : "Qyusagnza",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10289,
+  "portBerthTime" : 3430,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 102,
+  "shipName" : "Kggc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13835,
+  "portBerthTime" : 4612,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 964,
+  "shipName" : "Vwj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34441,
+  "portBerthTime" : 11481,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 675,
+  "shipName" : "Rcxkhla",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 35134,
+  "portBerthTime" : 11712,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 311,
+  "shipName" : "Vjoxv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14320,
+  "portBerthTime" : 4774,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 230,
+  "shipName" : "Gsicktnz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 29213,
+  "portBerthTime" : 9738,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 928,
+  "shipName" : "J",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34814,
+  "portBerthTime" : 11605,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 537,
+  "shipName" : "Nryehj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 2195,
+  "portBerthTime" : 732,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 261,
+  "shipName" : "E",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26189,
+  "portBerthTime" : 8730,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1034,
+  "shipName" : "Iuyan",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 59731,
+  "portBerthTime" : 19911,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 790,
+  "shipName" : "Swialvke",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 11708,
+  "portBerthTime" : 3903,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 311,
+  "shipName" : "Jymjzrr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38821,
+  "portBerthTime" : 12941,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 294,
+  "shipName" : "Isbeb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23081,
+  "portBerthTime" : 7694,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1285,
+  "shipName" : "Xthhzlhnqc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56339,
+  "portBerthTime" : 18780,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 460,
+  "shipName" : "E",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24444,
+  "portBerthTime" : 8148,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 608,
+  "shipName" : "Wtetxmlo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38323,
+  "portBerthTime" : 12775,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 1337,
+  "shipName" : "Kuueedmb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37035,
+  "portBerthTime" : 12345,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 196,
+  "shipName" : "Tpx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 53659,
+  "portBerthTime" : 17887,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 927,
+  "shipName" : "Qlkizltbdvfm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 55821,
+  "portBerthTime" : 18607,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 692,
+  "shipName" : "Gxulxbbmfcq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 19021,
+  "portBerthTime" : 6341,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 548,
+  "shipName" : "Hqk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 13836,
+  "portBerthTime" : 4612,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 575,
+  "shipName" : "Norzwv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36411,
+  "portBerthTime" : 12137,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 713,
+  "shipName" : "Catxtdsorhj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34705,
+  "portBerthTime" : 11569,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 645,
+  "shipName" : "Agjfkxz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7117,
+  "portBerthTime" : 2373,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 735,
+  "shipName" : "Oeoflpain",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 25671,
+  "portBerthTime" : 8557,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1369,
+  "shipName" : "Sr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2497,
+  "portBerthTime" : 833,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 971,
+  "shipName" : "Oenmwkmrpyvh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 47763,
+  "portBerthTime" : 15921,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 44,
+  "shipName" : "Iztqbareyiwl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34059,
+  "portBerthTime" : 11353,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 598,
+  "shipName" : "V",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10268,
+  "portBerthTime" : 3423,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 140,
+  "shipName" : "Efmrsna",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19,
+  "portBerthTime" : 7,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1423,
+  "shipName" : "Cetxpyqam",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 46207,
+  "portBerthTime" : 15403,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 784,
+  "shipName" : "M",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23723,
+  "portBerthTime" : 7908,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 351,
+  "shipName" : "Peikxfbsfzm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19615,
+  "portBerthTime" : 6539,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 131,
+  "shipName" : "Mo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 48975,
+  "portBerthTime" : 16325,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 994,
+  "shipName" : "Qnjpjfbxopl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55978,
+  "portBerthTime" : 18660,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 939,
+  "shipName" : "Cgwu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23365,
+  "portBerthTime" : 7789,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 28,
+  "shipName" : "Luzsf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8476,
+  "portBerthTime" : 2826,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 548,
+  "shipName" : "Yomis",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 39657,
+  "portBerthTime" : 13219,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 5,
+  "shipName" : "Xv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 45897,
+  "portBerthTime" : 15299,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 74,
+  "shipName" : "Vqwybimqjc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19401,
+  "portBerthTime" : 6467,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 556,
+  "shipName" : "Wighbsgrpmr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 59369,
+  "portBerthTime" : 19790,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 104,
+  "shipName" : "Uzrwxbs",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 35802,
+  "portBerthTime" : 11934,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1416,
+  "shipName" : "Fxxmvyxfglz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 52424,
+  "portBerthTime" : 17475,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1366,
+  "shipName" : "Isrq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12512,
+  "portBerthTime" : 4171,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1319,
+  "shipName" : "Uun",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34128,
+  "portBerthTime" : 11376,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 716,
+  "shipName" : "Couvvj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10635,
+  "portBerthTime" : 3545,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 83,
+  "shipName" : "Osnaik",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 16013,
+  "portBerthTime" : 5338,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1049,
+  "shipName" : "Kndkznhkoigy",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33246,
+  "portBerthTime" : 11082,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 768,
+  "shipName" : "Eqjcm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 56330,
+  "portBerthTime" : 18777,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1113,
+  "shipName" : "Qw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 52055,
+  "portBerthTime" : 17352,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 382,
+  "shipName" : "Tusaypvmvz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38530,
+  "portBerthTime" : 12844,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1265,
+  "shipName" : "Gbg",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24622,
+  "portBerthTime" : 8208,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 960,
+  "shipName" : "Hixlhcpo",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 48066,
+  "portBerthTime" : 16022,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 563,
+  "shipName" : "Zoujaa",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 48362,
+  "portBerthTime" : 16121,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 813,
+  "shipName" : "Dgubpbkttxdx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 42735,
+  "portBerthTime" : 14245,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 209,
+  "shipName" : "Jturwl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18879,
+  "portBerthTime" : 6293,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1337,
+  "shipName" : "Dao",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 57252,
+  "portBerthTime" : 19084,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 341,
+  "shipName" : "Qdnn",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 16354,
+  "portBerthTime" : 5452,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 36,
+  "shipName" : "Chrzbvnfheu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 29771,
+  "portBerthTime" : 9924,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 731,
+  "shipName" : "Qadvcsu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 22017,
+  "portBerthTime" : 7339,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 132,
+  "shipName" : "Iedjyfqhcig",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 35106,
+  "portBerthTime" : 11702,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1424,
+  "shipName" : "Nczwpgbagh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 55419,
+  "portBerthTime" : 18473,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 49,
+  "shipName" : "Kb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 16470,
+  "portBerthTime" : 5490,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 37,
+  "shipName" : "Xlydk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9640,
+  "portBerthTime" : 3214,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 629,
+  "shipName" : "Eljuihvv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 23515,
+  "portBerthTime" : 7839,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 352,
+  "shipName" : "Czrhpevdhf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48741,
+  "portBerthTime" : 16247,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1205,
+  "shipName" : "Guqqadffmty",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 18463,
+  "portBerthTime" : 6155,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1105,
+  "shipName" : "Axjm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 55004,
+  "portBerthTime" : 18335,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 91,
+  "shipName" : "Wl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 20858,
+  "portBerthTime" : 6953,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 658,
+  "shipName" : "Wxupzgikdku",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 54422,
+  "portBerthTime" : 18141,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1150,
+  "shipName" : "Wbhhyb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7584,
+  "portBerthTime" : 2528,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 731,
+  "shipName" : "Moavhctrbaz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 39984,
+  "portBerthTime" : 13328,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 283,
+  "shipName" : "B",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 58774,
+  "portBerthTime" : 19592,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 567,
+  "shipName" : "Ticsf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8201,
+  "portBerthTime" : 2734,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 471,
+  "shipName" : "Xiuyd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9155,
+  "portBerthTime" : 3052,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 989,
+  "shipName" : "G",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56648,
+  "portBerthTime" : 18883,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 500,
+  "shipName" : "Scr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 11556,
+  "portBerthTime" : 3852,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1413,
+  "shipName" : "Tpeefdzl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 50065,
+  "portBerthTime" : 16689,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 67,
+  "shipName" : "Gkhzjm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7555,
+  "portBerthTime" : 2519,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1016,
+  "shipName" : "Ata",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 19329,
+  "portBerthTime" : 6443,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 139,
+  "shipName" : "Yyobidcdc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 26954,
+  "portBerthTime" : 8985,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 428,
+  "shipName" : "Mmazv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47533,
+  "portBerthTime" : 15845,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 284,
+  "shipName" : "Xi",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36544,
+  "portBerthTime" : 12182,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 985,
+  "shipName" : "Bmlwsmvpb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 5346,
+  "portBerthTime" : 1782,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 598,
+  "shipName" : "Viba",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33276,
+  "portBerthTime" : 11092,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 212,
+  "shipName" : "Bhqyqyycmrt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18231,
+  "portBerthTime" : 6077,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 1334,
+  "shipName" : "Hsdhkkvr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 17681,
+  "portBerthTime" : 5894,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1084,
+  "shipName" : "Iwos",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49084,
+  "portBerthTime" : 16362,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1227,
+  "shipName" : "Cftugeeudd",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 10409,
+  "portBerthTime" : 3470,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 710,
+  "shipName" : "Unyha",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 41877,
+  "portBerthTime" : 13959,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 884,
+  "shipName" : "Kgxbundejhlr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30967,
+  "portBerthTime" : 10323,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 803,
+  "shipName" : "Rcgnrbs",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 45773,
+  "portBerthTime" : 15258,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 21,
+  "shipName" : "Lv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 16556,
+  "portBerthTime" : 5519,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 479,
+  "shipName" : "Wvzazbxmmg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54743,
+  "portBerthTime" : 18248,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 892,
+  "shipName" : "Lkrenmwootus",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 58446,
+  "portBerthTime" : 19482,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 296,
+  "shipName" : "Jzlycatjdx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 29268,
+  "portBerthTime" : 9756,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 630,
+  "shipName" : "Xo",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 32004,
+  "portBerthTime" : 10668,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 272,
+  "shipName" : "Kgfjl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 44358,
+  "portBerthTime" : 14786,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 879,
+  "shipName" : "Fqkfsn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55730,
+  "portBerthTime" : 18577,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 1311,
+  "shipName" : "Uvyz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 16584,
+  "portBerthTime" : 5528,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1255,
+  "shipName" : "Ewbrzsbymat",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25458,
+  "portBerthTime" : 8486,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1250,
+  "shipName" : "Qvmldmgtqz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 50154,
+  "portBerthTime" : 16718,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 686,
+  "shipName" : "Lwombdcy",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39849,
+  "portBerthTime" : 13283,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 393,
+  "shipName" : "Gvwz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25137,
+  "portBerthTime" : 8379,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 844,
+  "shipName" : "Qgkjtbmt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 31710,
+  "portBerthTime" : 10570,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 29,
+  "shipName" : "Hhqaa",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 34840,
+  "portBerthTime" : 11614,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1252,
+  "shipName" : "Fri",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56817,
+  "portBerthTime" : 18939,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1401,
+  "shipName" : "Qxzfgxh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29869,
+  "portBerthTime" : 9957,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 800,
+  "shipName" : "Ljdt",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8140,
+  "portBerthTime" : 2714,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1224,
+  "shipName" : "Wrhilcm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44943,
+  "portBerthTime" : 14981,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 93,
+  "shipName" : "Myhyegd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44486,
+  "portBerthTime" : 14829,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1065,
+  "shipName" : "Tmpjfcgj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 9616,
+  "portBerthTime" : 3206,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1393,
+  "shipName" : "Uzlnxdefkba",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 727,
+  "portBerthTime" : 243,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 784,
+  "shipName" : "Pnpu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 47440,
+  "portBerthTime" : 15814,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 180,
+  "shipName" : "Duifdrtwum",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27518,
+  "portBerthTime" : 9173,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 591,
+  "shipName" : "Idnpd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25190,
+  "portBerthTime" : 8397,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1305,
+  "shipName" : "Dqb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 623,
+  "portBerthTime" : 208,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 880,
+  "shipName" : "Zbfaqyj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 52541,
+  "portBerthTime" : 17514,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 396,
+  "shipName" : "Dywu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 58810,
+  "portBerthTime" : 19604,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1219,
+  "shipName" : "Osupouypiux",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 49898,
+  "portBerthTime" : 16633,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 219,
+  "shipName" : "Tppxttcju",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36767,
+  "portBerthTime" : 12256,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 169,
+  "shipName" : "V",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8170,
+  "portBerthTime" : 2724,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 833,
+  "shipName" : "Bce",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 51932,
+  "portBerthTime" : 17311,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 520,
+  "shipName" : "Ookcqrxyo",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 10339,
+  "portBerthTime" : 3447,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1137,
+  "shipName" : "Jnlhurg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 48072,
+  "portBerthTime" : 16024,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 360,
+  "shipName" : "Sogqf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44171,
+  "portBerthTime" : 14724,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 636,
+  "shipName" : "Bsfrniohrin",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 27237,
+  "portBerthTime" : 9079,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 346,
+  "shipName" : "Xrsjbarvuiqa",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34219,
+  "portBerthTime" : 11407,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 247,
+  "shipName" : "Hhikcjh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24124,
+  "portBerthTime" : 8042,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1186,
+  "shipName" : "Gafb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38704,
+  "portBerthTime" : 12902,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 391,
+  "shipName" : "Olrsidwn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39712,
+  "portBerthTime" : 13238,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 134,
+  "shipName" : "Nxj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 37336,
+  "portBerthTime" : 12446,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 1134,
+  "shipName" : "Efvyncxh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9013,
+  "portBerthTime" : 3005,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 925,
+  "shipName" : "Pkdoeiobi",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 33744,
+  "portBerthTime" : 11248,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1105,
+  "shipName" : "Yamkm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25156,
+  "portBerthTime" : 8386,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 857,
+  "shipName" : "Zgs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1303,
+  "portBerthTime" : 435,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 260,
+  "shipName" : "Bwkxbqnfnl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26553,
+  "portBerthTime" : 8851,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1278,
+  "shipName" : "Rmxzqrhjlipw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 45301,
+  "portBerthTime" : 15101,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 456,
+  "shipName" : "Vhaesblhdcu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7630,
+  "portBerthTime" : 2544,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 13,
+  "shipName" : "Rebry",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 57876,
+  "portBerthTime" : 19292,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 687,
+  "shipName" : "Qnciraczcxzj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 47419,
+  "portBerthTime" : 15807,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1211,
+  "shipName" : "Ptxy",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9283,
+  "portBerthTime" : 3095,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 674,
+  "shipName" : "Kal",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 37269,
+  "portBerthTime" : 12423,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1167,
+  "shipName" : "Hqqw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 23463,
+  "portBerthTime" : 7821,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 154,
+  "shipName" : "Hypgph",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 59070,
+  "portBerthTime" : 19690,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 571,
+  "shipName" : "Iu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 40920,
+  "portBerthTime" : 13640,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1278,
+  "shipName" : "Mlhnjyy",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 6579,
+  "portBerthTime" : 2193,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1253,
+  "shipName" : "Dxtqtb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2256,
+  "portBerthTime" : 752,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 971,
+  "shipName" : "Gcth",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49264,
+  "portBerthTime" : 16422,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 935,
+  "shipName" : "Lctsjfxmimj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 56692,
+  "portBerthTime" : 18898,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 664,
+  "shipName" : "At",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 31914,
+  "portBerthTime" : 10638,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 538,
+  "shipName" : "Xfptnlrvhr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 23198,
+  "portBerthTime" : 7733,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 676,
+  "shipName" : "Qeldsdz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23055,
+  "portBerthTime" : 7685,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1424,
+  "shipName" : "Qzksjb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27928,
+  "portBerthTime" : 9310,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 648,
+  "shipName" : "Czfabguq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35799,
+  "portBerthTime" : 11933,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1394,
+  "shipName" : "Ufr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 50184,
+  "portBerthTime" : 16728,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 556,
+  "shipName" : "Yboxhta",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45651,
+  "portBerthTime" : 15217,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 343,
+  "shipName" : "Nctpcquea",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19960,
+  "portBerthTime" : 6654,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1181,
+  "shipName" : "Sadsp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 37211,
+  "portBerthTime" : 12404,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 675,
+  "shipName" : "Xxtuhwlwzwf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1038,
+  "portBerthTime" : 346,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1005,
+  "shipName" : "Awngtpff",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44599,
+  "portBerthTime" : 14867,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 425,
+  "shipName" : "Aucqpldqolj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43811,
+  "portBerthTime" : 14604,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 827,
+  "shipName" : "Uvfjlaf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 17305,
+  "portBerthTime" : 5769,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1277,
+  "shipName" : "Oqav",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 30582,
+  "portBerthTime" : 10194,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 778,
+  "shipName" : "Nhrfssxv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43805,
+  "portBerthTime" : 14602,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 137,
+  "shipName" : "Xedizyti",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 39930,
+  "portBerthTime" : 13310,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 174,
+  "shipName" : "Xoksfxa",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29111,
+  "portBerthTime" : 9704,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 936,
+  "shipName" : "Vgzzxxh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 29474,
+  "portBerthTime" : 9825,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 570,
+  "shipName" : "Bjs",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 37338,
+  "portBerthTime" : 12446,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 632,
+  "shipName" : "Ou",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 40556,
+  "portBerthTime" : 13519,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 269,
+  "shipName" : "Ryysdjgjiv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 21584,
+  "portBerthTime" : 7195,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1063,
+  "shipName" : "Qhyuahy",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 908,
+  "portBerthTime" : 303,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 1023,
+  "shipName" : "Keivfvpjx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 57386,
+  "portBerthTime" : 19129,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 741,
+  "shipName" : "J",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 52322,
+  "portBerthTime" : 17441,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 484,
+  "shipName" : "Ixmhsvjmly",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 11703,
+  "portBerthTime" : 3901,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 524,
+  "shipName" : "Avqbabgfff",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 5356,
+  "portBerthTime" : 1786,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1278,
+  "shipName" : "Jpryutomwi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34170,
+  "portBerthTime" : 11390,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 554,
+  "shipName" : "Klgylkzcg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1559,
+  "portBerthTime" : 520,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1156,
+  "shipName" : "Oeuzu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48518,
+  "portBerthTime" : 16173,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1095,
+  "shipName" : "Cfqspvtd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30451,
+  "portBerthTime" : 10151,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1171,
+  "shipName" : "Vkzge",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23337,
+  "portBerthTime" : 7779,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 884,
+  "shipName" : "Ndpi",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 20363,
+  "portBerthTime" : 6788,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 660,
+  "shipName" : "Wfsvfwyvzxkk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45325,
+  "portBerthTime" : 15109,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 1060,
+  "shipName" : "Tepwwt",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26357,
+  "portBerthTime" : 8786,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1276,
+  "shipName" : "Bbmntvavd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 47600,
+  "portBerthTime" : 15867,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 947,
+  "shipName" : "Gokvhb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 5129,
+  "portBerthTime" : 1710,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 264,
+  "shipName" : "Kdwkopsxo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 21377,
+  "portBerthTime" : 7126,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1049,
+  "shipName" : "Kxlck",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27202,
+  "portBerthTime" : 9068,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 45,
+  "shipName" : "Mpvdiqwtpl",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12969,
+  "portBerthTime" : 4323,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 284,
+  "shipName" : "Ysdlbglipe",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11889,
+  "portBerthTime" : 3963,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 345,
+  "shipName" : "Mauzrxxv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 40255,
+  "portBerthTime" : 13419,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 25,
+  "shipName" : "Xnen",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2567,
+  "portBerthTime" : 856,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 641,
+  "shipName" : "I",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 32532,
+  "portBerthTime" : 10844,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 300,
+  "shipName" : "Riwrxadojg",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27876,
+  "portBerthTime" : 9292,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 500,
+  "shipName" : "Vranr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 13928,
+  "portBerthTime" : 4643,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 719,
+  "shipName" : "Hyurtobmfwcp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14804,
+  "portBerthTime" : 4935,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 745,
+  "shipName" : "Iisbu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 2011,
+  "portBerthTime" : 671,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 623,
+  "shipName" : "Yczgmg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59315,
+  "portBerthTime" : 19772,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 283,
+  "shipName" : "Dvubdhp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 19446,
+  "portBerthTime" : 6482,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 592,
+  "shipName" : "Kwqwhptjj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3155,
+  "portBerthTime" : 1052,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 797,
+  "shipName" : "Kcxzbga",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47957,
+  "portBerthTime" : 15986,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 588,
+  "shipName" : "Sqjdklkq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 57091,
+  "portBerthTime" : 19031,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 607,
+  "shipName" : "Zglhxnprrkk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 24961,
+  "portBerthTime" : 8321,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1225,
+  "shipName" : "Nsfoyetkx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 26755,
+  "portBerthTime" : 8919,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 105,
+  "shipName" : "Jdmbcjhx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2545,
+  "portBerthTime" : 849,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 232,
+  "shipName" : "Xeoojqco",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 8153,
+  "portBerthTime" : 2718,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 726,
+  "shipName" : "Jbxa",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 3022,
+  "portBerthTime" : 1008,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 871,
+  "shipName" : "Vljeknaqqnpz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 44884,
+  "portBerthTime" : 14962,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1223,
+  "shipName" : "Vn",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 39854,
+  "portBerthTime" : 13285,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 295,
+  "shipName" : "Ovjtxxjext",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 40539,
+  "portBerthTime" : 13513,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1189,
+  "shipName" : "Rd",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 54395,
+  "portBerthTime" : 18132,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1309,
+  "shipName" : "Xiycmi",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33778,
+  "portBerthTime" : 11260,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 16,
+  "shipName" : "Nxlomxies",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 30014,
+  "portBerthTime" : 10005,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 553,
+  "shipName" : "Hrrutbtwmyfs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 6196,
+  "portBerthTime" : 2066,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 48,
+  "shipName" : "Wzdvvyxpo",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 53600,
+  "portBerthTime" : 17867,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 224,
+  "shipName" : "Wyds",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50550,
+  "portBerthTime" : 16850,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1430,
+  "shipName" : "Yiyaxnxn",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2276,
+  "portBerthTime" : 759,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 623,
+  "shipName" : "Slvhwxvbwtzb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 49558,
+  "portBerthTime" : 16520,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 213,
+  "shipName" : "Okdzf",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 53001,
+  "portBerthTime" : 17667,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 155,
+  "shipName" : "Hhnfdpftk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 30580,
+  "portBerthTime" : 10194,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1330,
+  "shipName" : "Gqnlubhpc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 12771,
+  "portBerthTime" : 4257,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 46,
+  "shipName" : "Zvanpg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47758,
+  "portBerthTime" : 15920,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 480,
+  "shipName" : "Vtz",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1213,
+  "portBerthTime" : 405,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1073,
+  "shipName" : "R",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 54091,
+  "portBerthTime" : 18031,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 10,
+  "shipName" : "Ddog",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 14960,
+  "portBerthTime" : 4987,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 123,
+  "shipName" : "Khjaubptawup",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47623,
+  "portBerthTime" : 15875,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 376,
+  "shipName" : "Q",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43344,
+  "portBerthTime" : 14448,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 504,
+  "shipName" : "Yaa",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59264,
+  "portBerthTime" : 19755,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 699,
+  "shipName" : "Otg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 976,
+  "portBerthTime" : 326,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 997,
+  "shipName" : "Rmacrbwskj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48590,
+  "portBerthTime" : 16197,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 742,
+  "shipName" : "Ymtnveerxz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 4618,
+  "portBerthTime" : 1540,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 641,
+  "shipName" : "Wvxm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 55300,
+  "portBerthTime" : 18434,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1415,
+  "shipName" : "Yby",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 15988,
+  "portBerthTime" : 5330,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 532,
+  "shipName" : "Mgifbktary",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 7633,
+  "portBerthTime" : 2545,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 159,
+  "shipName" : "Csasvgevrvjg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19554,
+  "portBerthTime" : 6518,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 705,
+  "shipName" : "Wsftlrbfpyhw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13277,
+  "portBerthTime" : 4426,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1125,
+  "shipName" : "Lnwbbaogvfnl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30368,
+  "portBerthTime" : 10123,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1364,
+  "shipName" : "Hx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30264,
+  "portBerthTime" : 10088,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 49,
+  "shipName" : "Lygae",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 21873,
+  "portBerthTime" : 7291,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 538,
+  "shipName" : "Xuqvqi",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 7591,
+  "portBerthTime" : 2531,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 981,
+  "shipName" : "A",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 32923,
+  "portBerthTime" : 10975,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 641,
+  "shipName" : "Sh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 14030,
+  "portBerthTime" : 4677,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 615,
+  "shipName" : "Gzhealbsxw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 58963,
+  "portBerthTime" : 19655,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 25,
+  "shipName" : "Kkxlqmfw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 16747,
+  "portBerthTime" : 5583,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 429,
+  "shipName" : "Najjkde",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 31400,
+  "portBerthTime" : 10467,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 657,
+  "shipName" : "Jppvj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 39928,
+  "portBerthTime" : 13310,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1336,
+  "shipName" : "Zuwrkawje",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 23224,
+  "portBerthTime" : 7742,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 111,
+  "shipName" : "Bh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13676,
+  "portBerthTime" : 4559,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 785,
+  "shipName" : "Tszok",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24245,
+  "portBerthTime" : 8082,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 959,
+  "shipName" : "Mkselr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 17284,
+  "portBerthTime" : 5762,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1008,
+  "shipName" : "D",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 50838,
+  "portBerthTime" : 16946,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1003,
+  "shipName" : "Vi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1406,
+  "portBerthTime" : 469,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 413,
+  "shipName" : "Xadwvaywhp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39364,
+  "portBerthTime" : 13122,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 1268,
+  "shipName" : "Gvvsxrdeh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 40605,
+  "portBerthTime" : 13535,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 604,
+  "shipName" : "Ekyxmmmh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 22617,
+  "portBerthTime" : 7539,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 741,
+  "shipName" : "Emsqnbk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45490,
+  "portBerthTime" : 15164,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 595,
+  "shipName" : "Vulzuddkb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 53285,
+  "portBerthTime" : 17762,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1057,
+  "shipName" : "Ibwkynkwbh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39948,
+  "portBerthTime" : 13316,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 539,
+  "shipName" : "Oaekbl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7239,
+  "portBerthTime" : 2413,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 453,
+  "shipName" : "Ewo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24489,
+  "portBerthTime" : 8163,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 225,
+  "shipName" : "S",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 40174,
+  "portBerthTime" : 13392,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 806,
+  "shipName" : "Dbsfzq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26169,
+  "portBerthTime" : 8723,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 531,
+  "shipName" : "Lrey",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 3955,
+  "portBerthTime" : 1319,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 148,
+  "shipName" : "Lkweqepd",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59437,
+  "portBerthTime" : 19813,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 24,
+  "shipName" : "Ub",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10427,
+  "portBerthTime" : 3476,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 662,
+  "shipName" : "Ysxlb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 32041,
+  "portBerthTime" : 10681,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 603,
+  "shipName" : "Sjoskawrc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 15273,
+  "portBerthTime" : 5091,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 652,
+  "shipName" : "Iznm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44623,
+  "portBerthTime" : 14875,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 163,
+  "shipName" : "Cyoxtnez",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 30334,
+  "portBerthTime" : 10112,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 444,
+  "shipName" : "Ihymibysrfse",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 26441,
+  "portBerthTime" : 8814,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1200,
+  "shipName" : "Pznezuojhdmi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6575,
+  "portBerthTime" : 2192,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1128,
+  "shipName" : "Yefqgexntc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38404,
+  "portBerthTime" : 12802,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1204,
+  "shipName" : "Cpsflehrhjq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12851,
+  "portBerthTime" : 4284,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 12,
+  "shipName" : "Itwihgj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 55313,
+  "portBerthTime" : 18438,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1289,
+  "shipName" : "Iamxofgmjhev",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24217,
+  "portBerthTime" : 8073,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 836,
+  "shipName" : "Voujbtqwc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 39026,
+  "portBerthTime" : 13009,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 996,
+  "shipName" : "Ikpdqayclu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48888,
+  "portBerthTime" : 16296,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1352,
+  "shipName" : "Qpdp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 54389,
+  "portBerthTime" : 18130,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1049,
+  "shipName" : "Ygbuinjhuar",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38489,
+  "portBerthTime" : 12830,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 384,
+  "shipName" : "Fdrjfngl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2330,
+  "portBerthTime" : 777,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 349,
+  "shipName" : "Iartzqsxqtl",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45198,
+  "portBerthTime" : 15066,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 737,
+  "shipName" : "Iouxciomdsvh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37233,
+  "portBerthTime" : 12411,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 299,
+  "shipName" : "Vjftcq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25973,
+  "portBerthTime" : 8658,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 704,
+  "shipName" : "Udiiu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 55643,
+  "portBerthTime" : 18548,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 238,
+  "shipName" : "Q",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55252,
+  "portBerthTime" : 18418,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 151,
+  "shipName" : "Xbu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37787,
+  "portBerthTime" : 12596,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 515,
+  "shipName" : "Puux",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27569,
+  "portBerthTime" : 9190,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1163,
+  "shipName" : "Yqtir",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 42103,
+  "portBerthTime" : 14035,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1155,
+  "shipName" : "Xw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11069,
+  "portBerthTime" : 3690,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 659,
+  "shipName" : "Eerpkpihzqgs",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 55353,
+  "portBerthTime" : 18451,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 556,
+  "shipName" : "R",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 15811,
+  "portBerthTime" : 5271,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1007,
+  "shipName" : "Qu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 44277,
+  "portBerthTime" : 14759,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1176,
+  "shipName" : "Hemcj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 57503,
+  "portBerthTime" : 19168,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1397,
+  "shipName" : "Hzkpfcf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50126,
+  "portBerthTime" : 16709,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1413,
+  "shipName" : "Hsguzulr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30892,
+  "portBerthTime" : 10298,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 1260,
+  "shipName" : "M",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11569,
+  "portBerthTime" : 3857,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1245,
+  "shipName" : "Lcxzgwgzcjy",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 27145,
+  "portBerthTime" : 9049,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 424,
+  "shipName" : "Evxop",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 7807,
+  "portBerthTime" : 2603,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1367,
+  "shipName" : "Fzommatt",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8231,
+  "portBerthTime" : 2744,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1013,
+  "shipName" : "Onermvyxmuw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36781,
+  "portBerthTime" : 12261,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 62,
+  "shipName" : "Ffxyizlbk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 41872,
+  "portBerthTime" : 13958,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 538,
+  "shipName" : "Snjnydgg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 20503,
+  "portBerthTime" : 6835,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 44,
+  "shipName" : "Vade",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29902,
+  "portBerthTime" : 9968,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1059,
+  "shipName" : "Uo",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 10836,
+  "portBerthTime" : 3612,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 448,
+  "shipName" : "Givobu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 17260,
+  "portBerthTime" : 5754,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1058,
+  "shipName" : "Dazfudocg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 15210,
+  "portBerthTime" : 5070,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 85,
+  "shipName" : "M",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 43751,
+  "portBerthTime" : 14584,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 1267,
+  "shipName" : "Qa",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 51165,
+  "portBerthTime" : 17055,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 98,
+  "shipName" : "Jin",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 3047,
+  "portBerthTime" : 1016,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1160,
+  "shipName" : "Wqnbcypkloop",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55207,
+  "portBerthTime" : 18403,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1150,
+  "shipName" : "Mrtpa",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7656,
+  "portBerthTime" : 2552,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 776,
+  "shipName" : "Qfgpnudha",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9318,
+  "portBerthTime" : 3106,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 235,
+  "shipName" : "Ebzwmjyw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 57416,
+  "portBerthTime" : 19139,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 107,
+  "shipName" : "Z",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7138,
+  "portBerthTime" : 2380,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 669,
+  "shipName" : "Dpc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29909,
+  "portBerthTime" : 9970,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 278,
+  "shipName" : "Fkvsnk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24626,
+  "portBerthTime" : 8209,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 963,
+  "shipName" : "Wc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14838,
+  "portBerthTime" : 4946,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 605,
+  "shipName" : "Srlhzhcxjtj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35701,
+  "portBerthTime" : 11901,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 466,
+  "shipName" : "Glclgavr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 26933,
+  "portBerthTime" : 8978,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1048,
+  "shipName" : "Rcjke",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34182,
+  "portBerthTime" : 11394,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1384,
+  "shipName" : "Tjamallepeed",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 15574,
+  "portBerthTime" : 5192,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 663,
+  "shipName" : "Bc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 1075,
+  "portBerthTime" : 359,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 278,
+  "shipName" : "Lemyunmjldpt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 47199,
+  "portBerthTime" : 15733,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1218,
+  "shipName" : "Oof",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 51979,
+  "portBerthTime" : 17327,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 354,
+  "shipName" : "Crcy",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 15581,
+  "portBerthTime" : 5194,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 900,
+  "shipName" : "Y",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44709,
+  "portBerthTime" : 14903,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1426,
+  "shipName" : "Quysldfs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38557,
+  "portBerthTime" : 12853,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 203,
+  "shipName" : "Mfgnlz",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 37906,
+  "portBerthTime" : 12636,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 467,
+  "shipName" : "Motuuxacf",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 46203,
+  "portBerthTime" : 15401,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 1023,
+  "shipName" : "W",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8555,
+  "portBerthTime" : 2852,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 145,
+  "shipName" : "Xvl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 32317,
+  "portBerthTime" : 10773,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1400,
+  "shipName" : "Duxqcfhtwm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 17613,
+  "portBerthTime" : 5871,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 13,
+  "shipName" : "Tgdzhsfxdjib",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 16091,
+  "portBerthTime" : 5364,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 743,
+  "shipName" : "Ub",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 51350,
+  "portBerthTime" : 17117,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 474,
+  "shipName" : "Opkypjms",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36534,
+  "portBerthTime" : 12178,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 736,
+  "shipName" : "Xgumfyly",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 22018,
+  "portBerthTime" : 7340,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1395,
+  "shipName" : "Ah",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13136,
+  "portBerthTime" : 4379,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 581,
+  "shipName" : "Mjj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 21879,
+  "portBerthTime" : 7293,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 976,
+  "shipName" : "Ewyqtxgfbuma",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 46925,
+  "portBerthTime" : 15642,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 751,
+  "shipName" : "Iwplxosangwb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 42367,
+  "portBerthTime" : 14123,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 164,
+  "shipName" : "Tde",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 21403,
+  "portBerthTime" : 7135,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1139,
+  "shipName" : "Dypo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 2043,
+  "portBerthTime" : 681,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 486,
+  "shipName" : "Kmexzzwvwu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 26775,
+  "portBerthTime" : 8925,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 754,
+  "shipName" : "Skitnhocasx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 22151,
+  "portBerthTime" : 7384,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 608,
+  "shipName" : "Rcbwk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40661,
+  "portBerthTime" : 13554,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1274,
+  "shipName" : "Dqqve",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27112,
+  "portBerthTime" : 9038,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 286,
+  "shipName" : "Rtzbtlojwytm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55025,
+  "portBerthTime" : 18342,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 431,
+  "shipName" : "Nx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 47442,
+  "portBerthTime" : 15814,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 893,
+  "shipName" : "Twrid",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44563,
+  "portBerthTime" : 14855,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 1383,
+  "shipName" : "Sojxajsu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49574,
+  "portBerthTime" : 16525,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 598,
+  "shipName" : "Skvf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38119,
+  "portBerthTime" : 12707,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1224,
+  "shipName" : "C",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24337,
+  "portBerthTime" : 8113,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 514,
+  "shipName" : "Bjzcuw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 32807,
+  "portBerthTime" : 10936,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 285,
+  "shipName" : "Zavlcdalch",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 6724,
+  "portBerthTime" : 2242,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 299,
+  "shipName" : "Qlial",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 37244,
+  "portBerthTime" : 12415,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 548,
+  "shipName" : "Gbbzvoavmw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1540,
+  "portBerthTime" : 514,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 881,
+  "shipName" : "Wunkzmdt",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45269,
+  "portBerthTime" : 15090,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1325,
+  "shipName" : "Bfuywvlj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 6697,
+  "portBerthTime" : 2233,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 745,
+  "shipName" : "Kpfp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6953,
+  "portBerthTime" : 2318,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1036,
+  "shipName" : "Abwrzympemf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 4705,
+  "portBerthTime" : 1569,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 525,
+  "shipName" : "E",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 48316,
+  "portBerthTime" : 16106,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 1085,
+  "shipName" : "Otck",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24068,
+  "portBerthTime" : 8023,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 617,
+  "shipName" : "Ngdbov",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 16909,
+  "portBerthTime" : 5637,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 155,
+  "shipName" : "Ddg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 27223,
+  "portBerthTime" : 9075,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1175,
+  "shipName" : "X",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 50188,
+  "portBerthTime" : 16730,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 318,
+  "shipName" : "Xc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33620,
+  "portBerthTime" : 11207,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 505,
+  "shipName" : "Ywpcr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 10004,
+  "portBerthTime" : 3335,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1283,
+  "shipName" : "Fjna",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38535,
+  "portBerthTime" : 12845,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 184,
+  "shipName" : "G",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8218,
+  "portBerthTime" : 2740,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 184,
+  "shipName" : "Hkqjaog",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 47722,
+  "portBerthTime" : 15908,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 888,
+  "shipName" : "Tkxmyjemalhl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54041,
+  "portBerthTime" : 18014,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 559,
+  "shipName" : "Jopgtk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 36686,
+  "portBerthTime" : 12229,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 17,
+  "shipName" : "Sulu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 55168,
+  "portBerthTime" : 18390,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 167,
+  "shipName" : "Gxojild",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 56702,
+  "portBerthTime" : 18901,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 663,
+  "shipName" : "Przma",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 45883,
+  "portBerthTime" : 15295,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 728,
+  "shipName" : "Icuix",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7978,
+  "portBerthTime" : 2660,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 926,
+  "shipName" : "Kfimukxv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8232,
+  "portBerthTime" : 2744,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 59,
+  "shipName" : "S",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33259,
+  "portBerthTime" : 11087,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 406,
+  "shipName" : "Yitoq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59864,
+  "portBerthTime" : 19955,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 1144,
+  "shipName" : "Clfrdclnwk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35329,
+  "portBerthTime" : 11777,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 373,
+  "shipName" : "Lkpn",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 31626,
+  "portBerthTime" : 10542,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 688,
+  "shipName" : "Qcotnkh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 28182,
+  "portBerthTime" : 9394,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 787,
+  "shipName" : "Drbqgh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 18446,
+  "portBerthTime" : 6149,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 487,
+  "shipName" : "Sxmetp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 29304,
+  "portBerthTime" : 9768,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 541,
+  "shipName" : "Vhaovknybyqw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 6045,
+  "portBerthTime" : 2015,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 427,
+  "shipName" : "M",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40879,
+  "portBerthTime" : 13627,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 590,
+  "shipName" : "Xocjwhk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 3035,
+  "portBerthTime" : 1012,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 429,
+  "shipName" : "Whskiagxdf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 43014,
+  "portBerthTime" : 14338,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 138,
+  "shipName" : "Kywjq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 45831,
+  "portBerthTime" : 15277,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 961,
+  "shipName" : "A",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27325,
+  "portBerthTime" : 9109,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 329,
+  "shipName" : "Nltfgfgdck",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 55752,
+  "portBerthTime" : 18584,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 521,
+  "shipName" : "Jyzdxanjxcpq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8137,
+  "portBerthTime" : 2713,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 325,
+  "shipName" : "Eiaxwcufuv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34393,
+  "portBerthTime" : 11465,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 494,
+  "shipName" : "Yiwbq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9277,
+  "portBerthTime" : 3093,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 712,
+  "shipName" : "Hatkw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 41042,
+  "portBerthTime" : 13681,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 804,
+  "shipName" : "Xzzsbh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7458,
+  "portBerthTime" : 2486,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 102,
+  "shipName" : "Qnonrdqt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 52120,
+  "portBerthTime" : 17374,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1139,
+  "shipName" : "Mlxopd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 44105,
+  "portBerthTime" : 14702,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 268,
+  "shipName" : "Cvsch",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3409,
+  "portBerthTime" : 1137,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 673,
+  "shipName" : "Iyfsmlduj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 58726,
+  "portBerthTime" : 19576,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1139,
+  "shipName" : "Sjioqeul",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1894,
+  "portBerthTime" : 632,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 342,
+  "shipName" : "Flxlr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 7943,
+  "portBerthTime" : 2648,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 420,
+  "shipName" : "Tgcwflsayzm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 29820,
+  "portBerthTime" : 9940,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1126,
+  "shipName" : "Oepfua",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18994,
+  "portBerthTime" : 6332,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 546,
+  "shipName" : "Jn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 57436,
+  "portBerthTime" : 19146,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 202,
+  "shipName" : "Ceyhoydupkjv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50170,
+  "portBerthTime" : 16724,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 684,
+  "shipName" : "Leoie",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47978,
+  "portBerthTime" : 15993,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 343,
+  "shipName" : "Ejerqqxrp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 9759,
+  "portBerthTime" : 3253,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 621,
+  "shipName" : "Glppc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 576,
+  "portBerthTime" : 192,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 580,
+  "shipName" : "Auplfjaldhq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 27773,
+  "portBerthTime" : 9258,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1313,
+  "shipName" : "Kvkicxwonzzb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 13893,
+  "portBerthTime" : 4631,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 143,
+  "shipName" : "Aodfups",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 743,
+  "portBerthTime" : 248,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 843,
+  "shipName" : "Ql",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 33564,
+  "portBerthTime" : 11188,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 402,
+  "shipName" : "Rifhtpgx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 11120,
+  "portBerthTime" : 3707,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1016,
+  "shipName" : "Zagdbpeu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 53068,
+  "portBerthTime" : 17690,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1093,
+  "shipName" : "Ltegczwy",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 26075,
+  "portBerthTime" : 8692,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 392,
+  "shipName" : "Jfsyfzgdsnnq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 20007,
+  "portBerthTime" : 6669,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 398,
+  "shipName" : "Jflufmfbrl",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 51589,
+  "portBerthTime" : 17197,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 448,
+  "shipName" : "Lsukoopidr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25756,
+  "portBerthTime" : 8586,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1332,
+  "shipName" : "Vzpqs",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 20676,
+  "portBerthTime" : 6892,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 149,
+  "shipName" : "Wicn",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 24629,
+  "portBerthTime" : 8210,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 41,
+  "shipName" : "Dg",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1392,
+  "portBerthTime" : 464,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 831,
+  "shipName" : "Uh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 52155,
+  "portBerthTime" : 17385,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 471,
+  "shipName" : "Xfbehzxjq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3333,
+  "portBerthTime" : 1111,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 511,
+  "shipName" : "Ulappmzhn",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36858,
+  "portBerthTime" : 12286,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 591,
+  "shipName" : "Erwl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10389,
+  "portBerthTime" : 3463,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 601,
+  "shipName" : "Ctffbgfyneq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 31501,
+  "portBerthTime" : 10501,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1141,
+  "shipName" : "Jyjt",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59896,
+  "portBerthTime" : 19966,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1186,
+  "shipName" : "Bfadhfdxw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1090,
+  "portBerthTime" : 364,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 860,
+  "shipName" : "Fc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2110,
+  "portBerthTime" : 704,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 166,
+  "shipName" : "Fgidurqmsok",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2237,
+  "portBerthTime" : 746,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1185,
+  "shipName" : "Blje",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 58479,
+  "portBerthTime" : 19493,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 80,
+  "shipName" : "Umndx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49083,
+  "portBerthTime" : 16361,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 437,
+  "shipName" : "Wyvp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38027,
+  "portBerthTime" : 12676,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 643,
+  "shipName" : "Bhfycsz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1619,
+  "portBerthTime" : 540,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 809,
+  "shipName" : "Lpcvnvpe",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 23810,
+  "portBerthTime" : 7937,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 518,
+  "shipName" : "Bk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36527,
+  "portBerthTime" : 12176,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1114,
+  "shipName" : "Gzggb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3809,
+  "portBerthTime" : 1270,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 502,
+  "shipName" : "Uz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55389,
+  "portBerthTime" : 18463,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 994,
+  "shipName" : "Sxgxpmidpy",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 51137,
+  "portBerthTime" : 17046,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 431,
+  "shipName" : "Vpocrbax",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23478,
+  "portBerthTime" : 7826,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 441,
+  "shipName" : "An",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43584,
+  "portBerthTime" : 14528,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1013,
+  "shipName" : "Qeei",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9694,
+  "portBerthTime" : 3232,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 1111,
+  "shipName" : "Uke",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25945,
+  "portBerthTime" : 8649,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 282,
+  "shipName" : "Vwextbwdm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 45026,
+  "portBerthTime" : 15009,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 318,
+  "shipName" : "Biuswlniil",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 1835,
+  "portBerthTime" : 612,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 172,
+  "shipName" : "Dmmgyehv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36236,
+  "portBerthTime" : 12079,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 310,
+  "shipName" : "Ej",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 17250,
+  "portBerthTime" : 5750,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1125,
+  "shipName" : "Dkadhatphw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 36543,
+  "portBerthTime" : 12181,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 679,
+  "shipName" : "B",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 48881,
+  "portBerthTime" : 16294,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 665,
+  "shipName" : "Sjbeebpzrxvg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19068,
+  "portBerthTime" : 6356,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 919,
+  "shipName" : "Hpmvax",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54038,
+  "portBerthTime" : 18013,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 764,
+  "shipName" : "Mhqcjazmeexr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 27435,
+  "portBerthTime" : 9145,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 379,
+  "shipName" : "Cccerpuwvjg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 20081,
+  "portBerthTime" : 6694,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 201,
+  "shipName" : "Ydw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 49823,
+  "portBerthTime" : 16608,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 430,
+  "shipName" : "Srhcqiw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34643,
+  "portBerthTime" : 11548,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1272,
+  "shipName" : "Tyzxrutjn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55855,
+  "portBerthTime" : 18619,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 886,
+  "shipName" : "Kfinnnlbgk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39211,
+  "portBerthTime" : 13071,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 435,
+  "shipName" : "Rsmafiw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 37259,
+  "portBerthTime" : 12420,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 147,
+  "shipName" : "Oemqycbln",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59625,
+  "portBerthTime" : 19875,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 818,
+  "shipName" : "Ofevs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 42600,
+  "portBerthTime" : 14200,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 503,
+  "shipName" : "Fk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 47549,
+  "portBerthTime" : 15850,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 904,
+  "shipName" : "J",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 30847,
+  "portBerthTime" : 10283,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 113,
+  "shipName" : "Zaywlznx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44175,
+  "portBerthTime" : 14725,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 194,
+  "shipName" : "Piedpf",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54582,
+  "portBerthTime" : 18194,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1217,
+  "shipName" : "Zuqwoq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 43495,
+  "portBerthTime" : 14499,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1279,
+  "shipName" : "Youkskeim",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43751,
+  "portBerthTime" : 14584,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1185,
+  "shipName" : "Km",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26753,
+  "portBerthTime" : 8918,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 530,
+  "shipName" : "Dxwal",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 30380,
+  "portBerthTime" : 10127,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 717,
+  "shipName" : "L",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 22468,
+  "portBerthTime" : 7490,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 990,
+  "shipName" : "Pzrpzjr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 39978,
+  "portBerthTime" : 13326,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 291,
+  "shipName" : "Zxexbu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 23730,
+  "portBerthTime" : 7910,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1426,
+  "shipName" : "Evosrbnprh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 53311,
+  "portBerthTime" : 17771,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 212,
+  "shipName" : "Tyirixqjl",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 23398,
+  "portBerthTime" : 7800,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1209,
+  "shipName" : "Zyboryx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35582,
+  "portBerthTime" : 11861,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 1106,
+  "shipName" : "K",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24450,
+  "portBerthTime" : 8150,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1417,
+  "shipName" : "Nmpbbvq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 23323,
+  "portBerthTime" : 7775,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1143,
+  "shipName" : "Jhsp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 28002,
+  "portBerthTime" : 9334,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1132,
+  "shipName" : "Hwtcdv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 52433,
+  "portBerthTime" : 17478,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 130,
+  "shipName" : "Lxe",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 5137,
+  "portBerthTime" : 1713,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 68,
+  "shipName" : "Qch",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 46029,
+  "portBerthTime" : 15343,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1117,
+  "shipName" : "Angntyynh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 18567,
+  "portBerthTime" : 6189,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 476,
+  "shipName" : "Kppmypfaihr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 11260,
+  "portBerthTime" : 3754,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 918,
+  "shipName" : "Jgnrm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49674,
+  "portBerthTime" : 16558,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1141,
+  "shipName" : "Zniyytnstr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 35449,
+  "portBerthTime" : 11817,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 239,
+  "shipName" : "Yui",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24544,
+  "portBerthTime" : 8182,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 796,
+  "shipName" : "Bimzqzpxbtyf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 15789,
+  "portBerthTime" : 5263,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 501,
+  "shipName" : "Mvhvbbv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 24667,
+  "portBerthTime" : 8223,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 943,
+  "shipName" : "Yrhr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 3853,
+  "portBerthTime" : 1285,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1268,
+  "shipName" : "Nydak",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 18993,
+  "portBerthTime" : 6331,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 45,
+  "shipName" : "Gydyfddjv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26424,
+  "portBerthTime" : 8808,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 284,
+  "shipName" : "Gpsdprbing",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 34492,
+  "portBerthTime" : 11498,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1333,
+  "shipName" : "Q",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 28781,
+  "portBerthTime" : 9594,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 92,
+  "shipName" : "Ahhxyh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 21486,
+  "portBerthTime" : 7162,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 208,
+  "shipName" : "Vbieeyzr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18202,
+  "portBerthTime" : 6068,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 404,
+  "shipName" : "Woagzdwrk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 34919,
+  "portBerthTime" : 11640,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 942,
+  "shipName" : "Ivegi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23294,
+  "portBerthTime" : 7765,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 804,
+  "shipName" : "Kzvjpky",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 39724,
+  "portBerthTime" : 13242,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 810,
+  "shipName" : "Gtr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 39506,
+  "portBerthTime" : 13169,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 130,
+  "shipName" : "Rxstfwonfoh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44236,
+  "portBerthTime" : 14746,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 633,
+  "shipName" : "Wvaugfsc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25519,
+  "portBerthTime" : 8507,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 32,
+  "shipName" : "Riesgajvg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 52934,
+  "portBerthTime" : 17645,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 312,
+  "shipName" : "Un",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36654,
+  "portBerthTime" : 12218,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 906,
+  "shipName" : "Wzeombqbndkp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30355,
+  "portBerthTime" : 10119,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 371,
+  "shipName" : "Qstxgermgz",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25498,
+  "portBerthTime" : 8500,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1239,
+  "shipName" : "Kfcvannim",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44613,
+  "portBerthTime" : 14871,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 444,
+  "shipName" : "Dhjykk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7428,
+  "portBerthTime" : 2476,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1365,
+  "shipName" : "Eaoufgih",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 54190,
+  "portBerthTime" : 18064,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 851,
+  "shipName" : "Pvpxrgctus",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 47505,
+  "portBerthTime" : 15835,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1278,
+  "shipName" : "Kjdkfq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2616,
+  "portBerthTime" : 872,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 736,
+  "shipName" : "Cekgntbeof",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7433,
+  "portBerthTime" : 2478,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 681,
+  "shipName" : "Hqucwrydgnv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44609,
+  "portBerthTime" : 14870,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1390,
+  "shipName" : "Qdrfatgdph",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 31884,
+  "portBerthTime" : 10628,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 609,
+  "shipName" : "Ifxgoqqyki",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40724,
+  "portBerthTime" : 13575,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1095,
+  "shipName" : "Fszqohlrmee",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 13884,
+  "portBerthTime" : 4628,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 199,
+  "shipName" : "Quzimb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 21348,
+  "portBerthTime" : 7116,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 68,
+  "shipName" : "Hquxehivqk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29078,
+  "portBerthTime" : 9693,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1165,
+  "shipName" : "Gxxopasqnlpd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 10689,
+  "portBerthTime" : 3563,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 508,
+  "shipName" : "Idqjz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 1674,
+  "portBerthTime" : 558,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 261,
+  "shipName" : "Eqijvgseaaki",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59182,
+  "portBerthTime" : 19728,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 525,
+  "shipName" : "Ncrgd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6726,
+  "portBerthTime" : 2242,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1278,
+  "shipName" : "Kpcp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 22453,
+  "portBerthTime" : 7485,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 204,
+  "shipName" : "Lqtwlyc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 35292,
+  "portBerthTime" : 11764,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 898,
+  "shipName" : "Vmgljbmya",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 22837,
+  "portBerthTime" : 7613,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1373,
+  "shipName" : "Peikwr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 18563,
+  "portBerthTime" : 6188,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 995,
+  "shipName" : "Aytavku",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 14075,
+  "portBerthTime" : 4692,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1298,
+  "shipName" : "Xbk",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 37528,
+  "portBerthTime" : 12510,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1025,
+  "shipName" : "Vzsvls",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 29714,
+  "portBerthTime" : 9905,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 766,
+  "shipName" : "Wwvzhafh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 1581,
+  "portBerthTime" : 527,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 48,
+  "shipName" : "Nxixoejdw",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6729,
+  "portBerthTime" : 2243,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 657,
+  "shipName" : "Sktgvdenetxx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 56478,
+  "portBerthTime" : 18826,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 170,
+  "shipName" : "Lsxuzqpoy",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40783,
+  "portBerthTime" : 13595,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 257,
+  "shipName" : "Dnprrm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 42443,
+  "portBerthTime" : 14148,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 399,
+  "shipName" : "Osufnstc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13770,
+  "portBerthTime" : 4590,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 435,
+  "shipName" : "Aixrovaxanhe",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59168,
+  "portBerthTime" : 19723,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 527,
+  "shipName" : "Rxmg",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36555,
+  "portBerthTime" : 12185,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1307,
+  "shipName" : "Dizu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 4207,
+  "portBerthTime" : 1403,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 824,
+  "shipName" : "Uobqnexhrs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8955,
+  "portBerthTime" : 2985,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 642,
+  "shipName" : "Rdhpvaccgw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 22624,
+  "portBerthTime" : 7542,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 221,
+  "shipName" : "Bmazrtmjffy",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 12436,
+  "portBerthTime" : 4146,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 799,
+  "shipName" : "Vudgcjif",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26062,
+  "portBerthTime" : 8688,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 238,
+  "shipName" : "Lazyjdivlelo",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34496,
+  "portBerthTime" : 11499,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1413,
+  "shipName" : "Ykk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 42675,
+  "portBerthTime" : 14225,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 107,
+  "shipName" : "Njq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19581,
+  "portBerthTime" : 6527,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1187,
+  "shipName" : "Mzmmxg",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 10261,
+  "portBerthTime" : 3421,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1023,
+  "shipName" : "Ruzk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 4102,
+  "portBerthTime" : 1368,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 424,
+  "shipName" : "Cbzqcf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 51576,
+  "portBerthTime" : 17192,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 501,
+  "shipName" : "Pxqcro",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11205,
+  "portBerthTime" : 3735,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 741,
+  "shipName" : "Kj",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 24933,
+  "portBerthTime" : 8311,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 873,
+  "shipName" : "Dk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 21923,
+  "portBerthTime" : 7308,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 580,
+  "shipName" : "Eqfuctr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 22590,
+  "portBerthTime" : 7530,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 901,
+  "shipName" : "Dsj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 32097,
+  "portBerthTime" : 10699,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 973,
+  "shipName" : "Zok",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 45946,
+  "portBerthTime" : 15316,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 62,
+  "shipName" : "Mankdsi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13272,
+  "portBerthTime" : 4424,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 218,
+  "shipName" : "Njctoxhc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 2010,
+  "portBerthTime" : 670,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 607,
+  "shipName" : "Xtaezllbtbn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 27261,
+  "portBerthTime" : 9087,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 863,
+  "shipName" : "Tyicjn",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 5665,
+  "portBerthTime" : 1889,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 879,
+  "shipName" : "Uru",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26427,
+  "portBerthTime" : 8809,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 261,
+  "shipName" : "Zdsskstp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7858,
+  "portBerthTime" : 2620,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 29,
+  "shipName" : "Nmwxdx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 4759,
+  "portBerthTime" : 1587,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 120,
+  "shipName" : "Ccpkkshm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 7213,
+  "portBerthTime" : 2405,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 237,
+  "shipName" : "Cteuns",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38875,
+  "portBerthTime" : 12959,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 1296,
+  "shipName" : "Oet",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1327,
+  "portBerthTime" : 443,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 148,
+  "shipName" : "Xychr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 45007,
+  "portBerthTime" : 15003,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 495,
+  "shipName" : "Nqhuvevyxo",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7478,
+  "portBerthTime" : 2493,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 412,
+  "shipName" : "Eoq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 33272,
+  "portBerthTime" : 11091,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 201,
+  "shipName" : "Ggjnpdvpmds",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9376,
+  "portBerthTime" : 3126,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 434,
+  "shipName" : "Hvwoob",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38344,
+  "portBerthTime" : 12782,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 529,
+  "shipName" : "Dc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 56026,
+  "portBerthTime" : 18676,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 107,
+  "shipName" : "Vjx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 51281,
+  "portBerthTime" : 17094,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 26,
+  "shipName" : "Xnx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 15166,
+  "portBerthTime" : 5056,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1241,
+  "shipName" : "Cwgzslbsjsp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 20692,
+  "portBerthTime" : 6898,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 137,
+  "shipName" : "Fqhrqqm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 18489,
+  "portBerthTime" : 6163,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 887,
+  "shipName" : "Mrwesian",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 4747,
+  "portBerthTime" : 1583,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 236,
+  "shipName" : "Ckzbbvnl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38210,
+  "portBerthTime" : 12737,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 560,
+  "shipName" : "Peubngzb",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34138,
+  "portBerthTime" : 11380,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 909,
+  "shipName" : "Euznqjffbpmg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 1030,
+  "portBerthTime" : 344,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 1278,
+  "shipName" : "Douhi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 58350,
+  "portBerthTime" : 19450,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1129,
+  "shipName" : "Yc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9123,
+  "portBerthTime" : 3041,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1420,
+  "shipName" : "Qtlgtxlpdrb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 36014,
+  "portBerthTime" : 12005,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 296,
+  "shipName" : "Omntrgukjl",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38065,
+  "portBerthTime" : 12689,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1083,
+  "shipName" : "V",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36411,
+  "portBerthTime" : 12137,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 45,
+  "shipName" : "Icie",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 34012,
+  "portBerthTime" : 11338,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1090,
+  "shipName" : "Vwxlyqjug",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25160,
+  "portBerthTime" : 8387,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 890,
+  "shipName" : "Kl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 4510,
+  "portBerthTime" : 1504,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 280,
+  "shipName" : "Q",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 46975,
+  "portBerthTime" : 15659,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1335,
+  "shipName" : "Twhcsrqzt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 10855,
+  "portBerthTime" : 3619,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 61,
+  "shipName" : "Hihmzkwpnnd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11077,
+  "portBerthTime" : 3693,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 429,
+  "shipName" : "Fs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 57524,
+  "portBerthTime" : 19175,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1246,
+  "shipName" : "Suvtzxkpfx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7284,
+  "portBerthTime" : 2428,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1173,
+  "shipName" : "Eshccreqblx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 58408,
+  "portBerthTime" : 19470,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 962,
+  "shipName" : "Xynwfs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 49035,
+  "portBerthTime" : 16345,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 741,
+  "shipName" : "Mhfmdjbqm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8727,
+  "portBerthTime" : 2909,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 501,
+  "shipName" : "Hbrhdhdbnr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 24192,
+  "portBerthTime" : 8064,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 793,
+  "shipName" : "Enwlwb",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 12886,
+  "portBerthTime" : 4296,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 359,
+  "shipName" : "Bzdbufncs",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1718,
+  "portBerthTime" : 573,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1246,
+  "shipName" : "Ddiewikpv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 29527,
+  "portBerthTime" : 9843,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 331,
+  "shipName" : "Xvrith",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34848,
+  "portBerthTime" : 11616,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 754,
+  "shipName" : "Xmnmbvsk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8957,
+  "portBerthTime" : 2986,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1067,
+  "shipName" : "Ptuihaascv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 7910,
+  "portBerthTime" : 2637,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 585,
+  "shipName" : "Cwhafwa",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 2840,
+  "portBerthTime" : 947,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1185,
+  "shipName" : "Ersjthknv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 34799,
+  "portBerthTime" : 11600,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 522,
+  "shipName" : "Q",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 46353,
+  "portBerthTime" : 15451,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1009,
+  "shipName" : "Umdda",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 44287,
+  "portBerthTime" : 14763,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 676,
+  "shipName" : "Y",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49308,
+  "portBerthTime" : 16436,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 12,
+  "shipName" : "Nyyaew",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 57838,
+  "portBerthTime" : 19280,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1327,
+  "shipName" : "Nsavckcrecu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11019,
+  "portBerthTime" : 3673,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 913,
+  "shipName" : "U",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 43019,
+  "portBerthTime" : 14340,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1240,
+  "shipName" : "Cjkoxhkcjv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50908,
+  "portBerthTime" : 16970,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 744,
+  "shipName" : "Tj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 5314,
+  "portBerthTime" : 1772,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1364,
+  "shipName" : "Oksinp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 50420,
+  "portBerthTime" : 16807,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1367,
+  "shipName" : "Fdilqgbgawqq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 22954,
+  "portBerthTime" : 7652,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1053,
+  "shipName" : "Xwln",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 5967,
+  "portBerthTime" : 1989,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 856,
+  "shipName" : "Cr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 28297,
+  "portBerthTime" : 9433,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 529,
+  "shipName" : "Cekol",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48502,
+  "portBerthTime" : 16168,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 496,
+  "shipName" : "Mpbrxu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25647,
+  "portBerthTime" : 8549,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1298,
+  "shipName" : "N",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 18856,
+  "portBerthTime" : 6286,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 595,
+  "shipName" : "Fmlgkxbzey",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 39122,
+  "portBerthTime" : 13041,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 573,
+  "shipName" : "Jjpzueqst",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59034,
+  "portBerthTime" : 19678,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 147,
+  "shipName" : "Hmnrdbrbp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12114,
+  "portBerthTime" : 4038,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1357,
+  "shipName" : "V",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3128,
+  "portBerthTime" : 1043,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 940,
+  "shipName" : "Whpvzfqhguh",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25271,
+  "portBerthTime" : 8424,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 745,
+  "shipName" : "Gjghw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 21641,
+  "portBerthTime" : 7214,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 578,
+  "shipName" : "Sppsxbn",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 28897,
+  "portBerthTime" : 9633,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 1216,
+  "shipName" : "Axusfd",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 45339,
+  "portBerthTime" : 15113,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 417,
+  "shipName" : "Mssmqztwcaj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 53228,
+  "portBerthTime" : 17743,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 1312,
+  "shipName" : "Oeengpsgp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 31882,
+  "portBerthTime" : 10628,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 636,
+  "shipName" : "Nkq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54338,
+  "portBerthTime" : 18113,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 1412,
+  "shipName" : "H",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 15086,
+  "portBerthTime" : 5029,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 524,
+  "shipName" : "Fsfjnqc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 14283,
+  "portBerthTime" : 4761,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 931,
+  "shipName" : "Pkjtbpbad",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8305,
+  "portBerthTime" : 2769,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 573,
+  "shipName" : "Zmdfh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56078,
+  "portBerthTime" : 18693,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 134,
+  "shipName" : "Dktecflho",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40963,
+  "portBerthTime" : 13655,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 487,
+  "shipName" : "Pkjijcnwmz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 16208,
+  "portBerthTime" : 5403,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 233,
+  "shipName" : "Ik",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37624,
+  "portBerthTime" : 12542,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 453,
+  "shipName" : "Em",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6566,
+  "portBerthTime" : 2189,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 519,
+  "shipName" : "Oorct",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12825,
+  "portBerthTime" : 4275,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 252,
+  "shipName" : "Rvmcbbz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 31920,
+  "portBerthTime" : 10640,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 708,
+  "shipName" : "Hmv",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 19786,
+  "portBerthTime" : 6596,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 1127,
+  "shipName" : "Qvuciomfsdc",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 44151,
+  "portBerthTime" : 14717,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 329,
+  "shipName" : "Rgzxsbeiup",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 59563,
+  "portBerthTime" : 19855,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 881,
+  "shipName" : "Jmh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 7136,
+  "portBerthTime" : 2379,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1338,
+  "shipName" : "Nlhtqm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 139,
+  "portBerthTime" : 47,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 155,
+  "shipName" : "Vxq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23388,
+  "portBerthTime" : 7796,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1382,
+  "shipName" : "Xmoca",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 19111,
+  "portBerthTime" : 6371,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 723,
+  "shipName" : "Njnugtvi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 56882,
+  "portBerthTime" : 18961,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 957,
+  "shipName" : "Nu",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 27480,
+  "portBerthTime" : 9160,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 259,
+  "shipName" : "Yxbrdfantvw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 38798,
+  "portBerthTime" : 12933,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 753,
+  "shipName" : "L",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 32233,
+  "portBerthTime" : 10745,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 1214,
+  "shipName" : "Ggipmp",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 17514,
+  "portBerthTime" : 5838,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 995,
+  "shipName" : "Vvdgjqnhe",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 20664,
+  "portBerthTime" : 6888,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 1168,
+  "shipName" : "Tp",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25217,
+  "portBerthTime" : 8406,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 585,
+  "shipName" : "Jtovoiookcxz",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24725,
+  "portBerthTime" : 8242,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 1401,
+  "shipName" : "Cain",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 36080,
+  "portBerthTime" : 12027,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 205,
+  "shipName" : "Zmpy",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 42233,
+  "portBerthTime" : 14078,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1411,
+  "shipName" : "Xtd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9248,
+  "portBerthTime" : 3083,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 234,
+  "shipName" : "Sqp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38007,
+  "portBerthTime" : 12669,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1065,
+  "shipName" : "Gl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 12725,
+  "portBerthTime" : 4242,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1018,
+  "shipName" : "Svlnhp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 38485,
+  "portBerthTime" : 12829,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 17,
+  "shipName" : "Eyoynfbxswo",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 115,
+  "portBerthTime" : 39,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 43,
+  "shipName" : "Ullasxax",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 16568,
+  "portBerthTime" : 5523,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 289,
+  "shipName" : "Hntevinxz",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 13129,
+  "portBerthTime" : 4377,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 56,
+  "shipName" : "Tqofo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 41541,
+  "portBerthTime" : 13847,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1135,
+  "shipName" : "Pomighvmfg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24451,
+  "portBerthTime" : 8151,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 818,
+  "shipName" : "Vx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 45262,
+  "portBerthTime" : 15088,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 754,
+  "shipName" : "Acuxv",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 56588,
+  "portBerthTime" : 18863,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 302,
+  "shipName" : "Cflcg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 54583,
+  "portBerthTime" : 18195,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1424,
+  "shipName" : "Ukqzzfmiar",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14298,
+  "portBerthTime" : 4766,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 672,
+  "shipName" : "Bjtvrubq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1622,
+  "portBerthTime" : 541,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 1019,
+  "shipName" : "Ujjtfuhsi",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2749,
+  "portBerthTime" : 917,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 225,
+  "shipName" : "Hdmtiviqrotm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 48697,
+  "portBerthTime" : 16233,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 64,
+  "shipName" : "Gteabf",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38849,
+  "portBerthTime" : 12950,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 1298,
+  "shipName" : "Oderbq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 51879,
+  "portBerthTime" : 17293,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 8,
+  "arrivalTime" : 290,
+  "shipName" : "Bnzikwrj",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 35164,
+  "portBerthTime" : 11722,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 925,
+  "shipName" : "Vboprh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 12532,
+  "portBerthTime" : 4178,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1039,
+  "shipName" : "Plfm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14613,
+  "portBerthTime" : 4871,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 1212,
+  "shipName" : "Kymybuftdyph",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 6133,
+  "portBerthTime" : 2045,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 1172,
+  "shipName" : "Omnvpcwpvzr",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 17471,
+  "portBerthTime" : 5824,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 1142,
+  "shipName" : "Rpdjo",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 14600,
+  "portBerthTime" : 4867,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 521,
+  "shipName" : "Ugxrk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 4934,
+  "portBerthTime" : 1645,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1251,
+  "shipName" : "Bgrudoh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 46675,
+  "portBerthTime" : 15559,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 235,
+  "shipName" : "Cglvhx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 13181,
+  "portBerthTime" : 4394,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 1369,
+  "shipName" : "Valbe",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35208,
+  "portBerthTime" : 11736,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 33,
+  "shipName" : "Ejzmfm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 29579,
+  "portBerthTime" : 9860,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 1432,
+  "shipName" : "Ayh",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 39934,
+  "portBerthTime" : 13312,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 292,
+  "shipName" : "Ndiizd",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 26731,
+  "portBerthTime" : 8911,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 48,
+  "shipName" : "Lmsq",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34090,
+  "portBerthTime" : 11364,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 1388,
+  "shipName" : "Nostgdysvtw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50487,
+  "portBerthTime" : 16829,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 456,
+  "shipName" : "Kxq",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 5469,
+  "portBerthTime" : 1823,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1408,
+  "shipName" : "S",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 856,
+  "portBerthTime" : 286,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 774,
+  "shipName" : "Eqotccfe",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 5562,
+  "portBerthTime" : 1854,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 589,
+  "shipName" : "Q",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 52861,
+  "portBerthTime" : 17621,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 163,
+  "shipName" : "Urco",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 57256,
+  "portBerthTime" : 19086,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 242,
+  "shipName" : "Olqskcrdnqg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 24860,
+  "portBerthTime" : 8287,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 987,
+  "shipName" : "Nfjsntsp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13755,
+  "portBerthTime" : 4585,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 1085,
+  "shipName" : "Fiuskqljco",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 41688,
+  "portBerthTime" : 13896,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1121,
+  "shipName" : "Vltwnurh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 36044,
+  "portBerthTime" : 12015,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 347,
+  "shipName" : "Launnhmzxmox",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 9460,
+  "portBerthTime" : 3154,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 832,
+  "shipName" : "Yiddeyyyhg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 6409,
+  "portBerthTime" : 2137,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 280,
+  "shipName" : "Uvzljhrtx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 1305,
+  "portBerthTime" : 435,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 44,
+  "shipName" : "Suwomkxsec",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 48590,
+  "portBerthTime" : 16197,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 17,
+  "shipName" : "Wwhrca",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 24145,
+  "portBerthTime" : 8049,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 450,
+  "shipName" : "Swcifvkwbdu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38630,
+  "portBerthTime" : 12877,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 688,
+  "shipName" : "Uaesouzcqwt",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 59554,
+  "portBerthTime" : 19852,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 4,
+  "arrivalTime" : 584,
+  "shipName" : "Dszfaqitgx",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59423,
+  "portBerthTime" : 19808,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 10,
+  "arrivalTime" : 110,
+  "shipName" : "Yogtkft",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 23022,
+  "portBerthTime" : 7674,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 707,
+  "shipName" : "Vpisfjhbvd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 14799,
+  "portBerthTime" : 4933,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 609,
+  "shipName" : "Bilvs",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35598,
+  "portBerthTime" : 11866,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1300,
+  "shipName" : "Zk",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 57330,
+  "portBerthTime" : 19110,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 418,
+  "shipName" : "Hsawniw",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11116,
+  "portBerthTime" : 3706,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 1130,
+  "shipName" : "Wqluxe",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 46436,
+  "portBerthTime" : 15479,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 789,
+  "shipName" : "Mbmhx",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11221,
+  "portBerthTime" : 3741,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 100,
+  "shipName" : "Fgc",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 57166,
+  "portBerthTime" : 19056,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1022,
+  "shipName" : "Wjqomgat",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 25014,
+  "portBerthTime" : 8338,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 76,
+  "shipName" : "Xukfjdnzxewr",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 11445,
+  "portBerthTime" : 3815,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 861,
+  "shipName" : "U",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48023,
+  "portBerthTime" : 16008,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 816,
+  "shipName" : "Goy",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 35617,
+  "portBerthTime" : 11873,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 191,
+  "shipName" : "Ncfesakzofl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 23147,
+  "portBerthTime" : 7716,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 709,
+  "shipName" : "Ihr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 43631,
+  "portBerthTime" : 14544,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 318,
+  "shipName" : "Tty",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 31052,
+  "portBerthTime" : 10351,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 1159,
+  "shipName" : "L",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 8414,
+  "portBerthTime" : 2805,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 829,
+  "shipName" : "Y",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56745,
+  "portBerthTime" : 18915,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 159,
+  "shipName" : "Rnomyodlu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49492,
+  "portBerthTime" : 16498,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 1062,
+  "shipName" : "Pxoxptpdc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 25989,
+  "portBerthTime" : 8663,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 429,
+  "shipName" : "Oza",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 57321,
+  "portBerthTime" : 19107,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 618,
+  "shipName" : "Kswnyqnrc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 53644,
+  "portBerthTime" : 17882,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1145,
+  "shipName" : "Pyajgfeofwmt",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 5640,
+  "portBerthTime" : 1880,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1109,
+  "shipName" : "Ktqcfrntb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 51891,
+  "portBerthTime" : 17297,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 397,
+  "shipName" : "Dmxkemtime",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 25467,
+  "portBerthTime" : 8489,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 912,
+  "shipName" : "Gmmahqf",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 40309,
+  "portBerthTime" : 13437,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 69,
+  "shipName" : "Qqx",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 46941,
+  "portBerthTime" : 15647,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1331,
+  "shipName" : "C",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14225,
+  "portBerthTime" : 4742,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 784,
+  "shipName" : "Qysch",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 34123,
+  "portBerthTime" : 11375,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 238,
+  "shipName" : "Phyphb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 30172,
+  "portBerthTime" : 10058,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 1248,
+  "shipName" : "Pkflgmuh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13117,
+  "portBerthTime" : 4373,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 154,
+  "shipName" : "Kedfo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 40498,
+  "portBerthTime" : 13500,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1264,
+  "shipName" : "Ofutmgq",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 42911,
+  "portBerthTime" : 14304,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 14,
+  "arrivalTime" : 739,
+  "shipName" : "Qleycnlkmst",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 11468,
+  "portBerthTime" : 3823,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 237,
+  "shipName" : "Pqsefzrrapta",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 50173,
+  "portBerthTime" : 16725,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 1121,
+  "shipName" : "Hxjtxqcbhpnj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 49341,
+  "portBerthTime" : 16447,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 384,
+  "shipName" : "Sry",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56403,
+  "portBerthTime" : 18801,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1329,
+  "shipName" : "Nkxvoztikxia",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49900,
+  "portBerthTime" : 16634,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 17,
+  "arrivalTime" : 311,
+  "shipName" : "Smhi",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 12380,
+  "portBerthTime" : 4127,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1390,
+  "shipName" : "Qi",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 44787,
+  "portBerthTime" : 14929,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1164,
+  "shipName" : "Jtpmvgezebo",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 16462,
+  "portBerthTime" : 5488,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 19,
+  "arrivalTime" : 298,
+  "shipName" : "Gov",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 33963,
+  "portBerthTime" : 11321,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1027,
+  "shipName" : "Hfsmhoul",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 2696,
+  "portBerthTime" : 899,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 0,
+  "arrivalTime" : 3,
+  "shipName" : "Jvwickpte",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 37623,
+  "portBerthTime" : 12541,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 46,
+  "shipName" : "Rqso",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 11800,
+  "portBerthTime" : 3934,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 1166,
+  "shipName" : "Rglshabmr",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 53498,
+  "portBerthTime" : 17833,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 772,
+  "shipName" : "Ychddvd",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 19903,
+  "portBerthTime" : 6635,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 252,
+  "shipName" : "Xpuhw",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 47726,
+  "portBerthTime" : 15909,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 15,
+  "arrivalTime" : 510,
+  "shipName" : "Bbug",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 209,
+  "portBerthTime" : 70,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 888,
+  "shipName" : "Qzyhudogg",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 35977,
+  "portBerthTime" : 11993,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 23,
+  "arrivalTime" : 769,
+  "shipName" : "Uegbzph",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 57835,
+  "portBerthTime" : 19279,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 21,
+  "arrivalTime" : 68,
+  "shipName" : "Apcsit",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 11764,
+  "portBerthTime" : 3922,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 24,
+  "arrivalTime" : 712,
+  "shipName" : "Yrviikrtdvy",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 48735,
+  "portBerthTime" : 16245,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 1416,
+  "shipName" : "Dne",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 56371,
+  "portBerthTime" : 18791,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 3,
+  "arrivalTime" : 64,
+  "shipName" : "Jxqml",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 49329,
+  "portBerthTime" : 16443,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 585,
+  "shipName" : "Lqetm",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 13098,
+  "portBerthTime" : 4366,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 716,
+  "shipName" : "Bwwee",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 4085,
+  "portBerthTime" : 1362,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 183,
+  "shipName" : "Nfwltcs",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 41599,
+  "portBerthTime" : 13867,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 16,
+  "arrivalTime" : 158,
+  "shipName" : "Wln",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 3347,
+  "portBerthTime" : 1116,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 5,
+  "arrivalTime" : 52,
+  "shipName" : "Yuimgykwhbvb",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 50792,
+  "portBerthTime" : 16931,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1412,
+  "shipName" : "Q",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 38902,
+  "portBerthTime" : 12968,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 498,
+  "shipName" : "Cqwmbzzti",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 9484,
+  "portBerthTime" : 3162,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 186,
+  "shipName" : "Kuzkiu",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 3133,
+  "portBerthTime" : 1045,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1189,
+  "shipName" : "Tepewjn",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 16767,
+  "portBerthTime" : 5589,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 1407,
+  "shipName" : "Djhdyqkgz",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8080,
+  "portBerthTime" : 2694,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 18,
+  "arrivalTime" : 16,
+  "shipName" : "Wldwlyotp",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 42975,
+  "portBerthTime" : 14325,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 327,
+  "shipName" : "Psmtwjikbutm",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 10455,
+  "portBerthTime" : 3485,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 12,
+  "arrivalTime" : 212,
+  "shipName" : "Zvtkkofhdhgt",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 22346,
+  "portBerthTime" : 7449,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 802,
+  "shipName" : "Dzpjdhub",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 48830,
+  "portBerthTime" : 16277,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 378,
+  "shipName" : "E",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 43146,
+  "portBerthTime" : 14382,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 27,
+  "arrivalTime" : 668,
+  "shipName" : "Xoegfrqxepjc",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 56905,
+  "portBerthTime" : 18969,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 13,
+  "arrivalTime" : 1324,
+  "shipName" : "Bebaeluiliub",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 47483,
+  "portBerthTime" : 15828,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 28,
+  "arrivalTime" : 1090,
+  "shipName" : "Rxcnikeonjfj",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 26435,
+  "portBerthTime" : 8812,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 861,
+  "shipName" : "Ic",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 37334,
+  "portBerthTime" : 12445,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 20,
+  "arrivalTime" : 1407,
+  "shipName" : "Jnfvim",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 50362,
+  "portBerthTime" : 16788,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 22,
+  "arrivalTime" : 920,
+  "shipName" : "Bxjhcbeuxvh",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 8178,
+  "portBerthTime" : 2726,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 26,
+  "arrivalTime" : 1388,
+  "shipName" : "G",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 42419,
+  "portBerthTime" : 14140,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 11,
+  "arrivalTime" : 1002,
+  "shipName" : "Avomdgtity",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 46222,
+  "portBerthTime" : 15408,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 876,
+  "shipName" : "Wcwsdhhl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 14738,
+  "portBerthTime" : 4913,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 6,
+  "arrivalTime" : 1193,
+  "shipName" : "Szebcidf",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 55932,
+  "portBerthTime" : 18644,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 7,
+  "arrivalTime" : 1407,
+  "shipName" : "Xwblgmulssdk",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 34862,
+  "portBerthTime" : 11621,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 2,
+  "arrivalTime" : 1075,
+  "shipName" : "Jfbyvbygfv",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 1699,
+  "portBerthTime" : 567,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 29,
+  "arrivalTime" : 233,
+  "shipName" : "Yl",
+  "nameOfCargoType" : "liquid",
+  "weightOfCargoType" : 17556,
+  "portBerthTime" : 5852,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 9,
+  "arrivalTime" : 374,
+  "shipName" : "Qruocldbpfm",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 59714,
+  "portBerthTime" : 19905,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 1,
+  "arrivalTime" : 26,
+  "shipName" : "Bxekydbfgi",
+  "nameOfCargoType" : "loose",
+  "weightOfCargoType" : 31053,
+  "portBerthTime" : 10351,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}{
+  "arrivalDay" : 25,
+  "arrivalTime" : 585,
+  "shipName" : "Lrjeu",
+  "nameOfCargoType" : "container",
+  "weightOfCargoType" : 20063,
+  "portBerthTime" : 6688,
+  "unloadingEndDelay" : 0,
+  "deviationFromSchedule" : 0
+}
